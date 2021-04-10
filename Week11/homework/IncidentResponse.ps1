@@ -37,10 +37,11 @@ $allNetworkConfig = Get-WmiObject -Class Win32_NetworkAdapterConfiguration | Exp
 
 #6. Powershell cmdlets to save other artifacts that would be useful
 
-#Prompt user whether or not they want to comb appdata and downloads (this could take a while)
+#Prompt user whether or not they want to comb appdata and downloads (this could take a while).
+#APPDATA and Downloads are some of the most frequent areas where malware or other potentially dangerous files are stored on a victims computer.
 $GetRecent = read-host -Prompt "Do you want to comb APPDATA and Downloads? [Y/n]"
 
-#If the user does want to look through $APPDATA and Downloads.
+#If the user does want to look through $APPDATA and Downloads...
 
 if ($GetRecent -match "^[yY]$") {
     #Grabs most recent changes to the $APPDATA directory
@@ -52,13 +53,13 @@ if ($GetRecent -match "^[yY]$") {
     Get-ChildItem -Path C:\Users\$Env:UserName\Downloads -Force -Recurse | sort LastWriteTime | select -Last 20 | Export-Csv -NoTypeInformation -Path "$myDir\results\downloadsRecent.csv"
 
 }
+privledge 
 
-
-#Returns the execution policy
+#Returns the execution policy. Execution Policy is important to let you know if you're user has been the result of an escalation type attack
 Write-Output "Getting current Execution Policy..."
 Get-ExecutionPolicy | Out-File -FilePath "$myDir\results\executionPolicy.txt"
 
-#Returns all user accounts in the Admin group
+#Returns all user accounts in the Admin group. This is important to know incase someone has accessed your computer and given a user account admin privledges 
 Write-Output "Getting all members of the Administrator group..."
 Get-LocalGroupMember Administrators | Export-Csv -NoTypeInformation -Path "$myDir\results\adminMembers.csv"
 
