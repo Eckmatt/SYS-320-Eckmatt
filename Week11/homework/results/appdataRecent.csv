@@ -1,0 +1,229 @@
+"PSPath","PSParentPath","PSChildName","PSDrive","PSProvider","PSIsContainer","Mode","VersionInfo","BaseName","Target","LinkType","Name","Length","DirectoryName","Directory","IsReadOnly","Exists","FullName","Extension","CreationTime","CreationTimeUtc","LastAccessTime","LastAccessTimeUtc","LastWriteTime","LastWriteTimeUtc","Attributes"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\discord\TransportSecurity","Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\discord","TransportSecurity","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\meckh\AppData\Roaming\discord\TransportSecurity
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","TransportSecurity","System.Collections.Generic.List`1[System.String]",,"TransportSecurity","4146","C:\Users\meckh\AppData\Roaming\discord","C:\Users\meckh\AppData\Roaming\discord","False","True","C:\Users\meckh\AppData\Roaming\discord\TransportSecurity","","3/11/2020 11:20:11 PM","3/12/2020 3:20:11 AM","4/10/2021 4:37:51 PM","4/10/2021 8:37:51 PM","4/10/2021 3:22:35 PM","4/10/2021 7:22:35 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\discord","Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming","discord","C","Microsoft.PowerShell.Core\FileSystem","True","d-----",,"discord","System.Collections.Generic.List`1[System.String]",,"discord",,,,,"True","C:\Users\meckh\AppData\Roaming\discord","","1/18/2019 8:47:46 PM","1/19/2019 1:47:46 AM","4/10/2021 4:37:49 PM","4/10/2021 8:37:49 PM","4/10/2021 3:22:35 PM","4/10/2021 7:22:35 PM","Directory"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\discord\Cookies","Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\discord","Cookies","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\meckh\AppData\Roaming\discord\Cookies
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Cookies","System.Collections.Generic.List`1[System.String]",,"Cookies","28672","C:\Users\meckh\AppData\Roaming\discord","C:\Users\meckh\AppData\Roaming\discord","False","True","C:\Users\meckh\AppData\Roaming\discord\Cookies","","1/18/2019 8:48:19 PM","1/19/2019 1:48:19 AM","4/10/2021 4:37:51 PM","4/10/2021 8:37:51 PM","4/10/2021 3:33:47 PM","4/10/2021 7:33:47 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\discord\Cookies-journal","Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\discord","Cookies-journal","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\meckh\AppData\Roaming\discord\Cookies-journal
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Cookies-journal","System.Collections.Generic.List`1[System.String]",,"Cookies-journal","0","C:\Users\meckh\AppData\Roaming\discord","C:\Users\meckh\AppData\Roaming\discord","False","True","C:\Users\meckh\AppData\Roaming\discord\Cookies-journal","","1/18/2019 8:48:19 PM","1/19/2019 1:48:19 AM","4/10/2021 3:33:47 PM","4/10/2021 7:33:47 PM","4/10/2021 3:33:47 PM","4/10/2021 7:33:47 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\Spotify\prefs","Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\Spotify","prefs","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\meckh\AppData\Roaming\Spotify\prefs
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","prefs","System.Collections.Generic.List`1[System.String]",,"prefs","959","C:\Users\meckh\AppData\Roaming\Spotify","C:\Users\meckh\AppData\Roaming\Spotify","False","True","C:\Users\meckh\AppData\Roaming\Spotify\prefs","","4/10/2021 4:17:18 PM","4/10/2021 8:17:18 PM","4/10/2021 4:17:18 PM","4/10/2021 8:17:18 PM","4/10/2021 4:17:18 PM","4/10/2021 8:17:18 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\Spotify","Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming","Spotify","C","Microsoft.PowerShell.Core\FileSystem","True","d-----",,"Spotify","System.Collections.Generic.List`1[System.String]",,"Spotify",,,,,"True","C:\Users\meckh\AppData\Roaming\Spotify","","9/14/2020 3:26:07 PM","9/14/2020 7:26:07 PM","4/10/2021 4:17:18 PM","4/10/2021 8:17:18 PM","4/10/2021 4:17:18 PM","4/10/2021 8:17:18 PM","Directory"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\homework.lnk","Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent","homework.lnk","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\homework.lnk
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","homework","System.Collections.Generic.List`1[System.String]",,"homework.lnk","967","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent","False","True","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\homework.lnk",".lnk","4/10/2021 4:27:25 PM","4/10/2021 8:27:25 PM","4/10/2021 4:27:25 PM","4/10/2021 8:27:25 PM","4/10/2021 4:27:25 PM","4/10/2021 8:27:25 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\Week11.lnk","Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent","Week11.lnk","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\Week11.lnk
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Week11","System.Collections.Generic.List`1[System.String]",,"Week11.lnk","850","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent","False","True","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\Week11.lnk",".lnk","4/10/2021 4:27:25 PM","4/10/2021 8:27:25 PM","4/10/2021 4:27:25 PM","4/10/2021 8:27:25 PM","4/10/2021 4:27:25 PM","4/10/2021 8:27:25 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\407962ce3d4220f.customDestinations-ms","Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations","407962ce3d4220f.customDestinations-ms","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\407962ce3d4220f.customDestinations-ms
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","407962ce3d4220f","System.Collections.Generic.List`1[System.String]",,"407962ce3d4220f.customDestinations-ms","21744","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations","False","True","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\407962ce3d4220f.customDestinations-ms",".customDestinations-ms","4/24/2019 2:31:33 PM","4/24/2019 6:31:33 PM","4/10/2021 4:40:13 PM","4/10/2021 8:40:13 PM","4/10/2021 4:40:13 PM","4/10/2021 8:40:13 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\9b9cdc69c1c24e2b.automaticDestinations-ms","Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations","9b9cdc69c1c24e2b.automaticDestinations-ms","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\9b9cdc69c1c24e2b.automaticDestinations-ms
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","9b9cdc69c1c24e2b","System.Collections.Generic.List`1[System.String]",,"9b9cdc69c1c24e2b.automaticDestinations-ms","49664","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations","False","True","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\9b9cdc69c1c24e2b.automaticDestinations-ms",".automaticDestinations-ms","1/26/2019 10:33:09 PM","1/27/2019 3:33:09 AM","4/10/2021 4:42:08 PM","4/10/2021 8:42:08 PM","4/10/2021 4:42:08 PM","4/10/2021 8:42:08 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\zipHash.txt.lnk","Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent","zipHash.txt.lnk","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\zipHash.txt.lnk
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","zipHash.txt","System.Collections.Generic.List`1[System.String]",,"zipHash.txt.lnk","751","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent","False","True","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\zipHash.txt.lnk",".lnk","4/10/2021 4:42:09 PM","4/10/2021 8:42:09 PM","4/10/2021 4:42:09 PM","4/10/2021 8:42:09 PM","4/10/2021 4:42:09 PM","4/10/2021 8:42:09 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\meckh.lnk","Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent","meckh.lnk","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\meckh.lnk
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","meckh","System.Collections.Generic.List`1[System.String]",,"meckh.lnk","587","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent","False","True","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\meckh.lnk",".lnk","4/10/2021 4:42:09 PM","4/10/2021 8:42:09 PM","4/10/2021 4:42:09 PM","4/10/2021 8:42:09 PM","4/10/2021 4:42:09 PM","4/10/2021 8:42:09 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\830f23afc79ff8a7.automaticDestinations-ms","Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations","830f23afc79ff8a7.automaticDestinations-ms","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\830f23afc79ff8a7.automaticDestinations-ms
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","830f23afc79ff8a7","System.Collections.Generic.List`1[System.String]",,"830f23afc79ff8a7.automaticDestinations-ms","9728","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations","False","True","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\830f23afc79ff8a7.automaticDestinations-ms",".automaticDestinations-ms","2/4/2021 6:52:41 PM","2/4/2021 11:52:41 PM","4/10/2021 4:42:49 PM","4/10/2021 8:42:49 PM","4/10/2021 4:42:49 PM","4/10/2021 8:42:49 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\hashes.csv.lnk","Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent","hashes.csv.lnk","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\hashes.csv.lnk
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","hashes.csv","System.Collections.Generic.List`1[System.String]",,"hashes.csv.lnk","1173","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent","False","True","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\hashes.csv.lnk",".lnk","4/10/2021 4:42:49 PM","4/10/2021 8:42:49 PM","4/10/2021 4:42:49 PM","4/10/2021 8:42:49 PM","4/10/2021 4:42:49 PM","4/10/2021 8:42:49 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent","Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\Microsoft\Windows","Recent","C","Microsoft.PowerShell.Core\FileSystem","True","d-r---",,"Recent","System.Collections.Generic.List`1[System.String]",,"Recent",,,,,"True","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent","","1/3/2019 7:08:59 PM","1/4/2019 12:08:59 AM","4/10/2021 4:42:49 PM","4/10/2021 8:42:49 PM","4/10/2021 4:42:49 PM","4/10/2021 8:42:49 PM","ReadOnly, Directory"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\results.lnk","Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent","results.lnk","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\results.lnk
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","results","System.Collections.Generic.List`1[System.String]",,"results.lnk","934","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent","False","True","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\results.lnk",".lnk","4/10/2021 4:42:49 PM","4/10/2021 8:42:49 PM","4/10/2021 4:42:49 PM","4/10/2021 8:42:49 PM","4/10/2021 4:42:49 PM","4/10/2021 8:42:49 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\830f23afc79ff8a7.customDestinations-ms","Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations","830f23afc79ff8a7.customDestinations-ms","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\830f23afc79ff8a7.customDestinations-ms
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","830f23afc79ff8a7","System.Collections.Generic.List`1[System.String]",,"830f23afc79ff8a7.customDestinations-ms","4502","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations","False","True","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\830f23afc79ff8a7.customDestinations-ms",".customDestinations-ms","2/4/2021 6:53:10 PM","2/4/2021 11:53:10 PM","4/10/2021 4:43:12 PM","4/10/2021 8:43:12 PM","4/10/2021 4:43:12 PM","4/10/2021 8:43:12 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations","Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent","CustomDestinations","C","Microsoft.PowerShell.Core\FileSystem","True","d-----",,"CustomDestinations","System.Collections.Generic.List`1[System.String]",,"CustomDestinations",,,,,"True","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations","","1/3/2019 7:15:14 PM","1/4/2019 12:15:14 AM","4/10/2021 4:46:59 PM","4/10/2021 8:46:59 PM","4/10/2021 4:43:12 PM","4/10/2021 8:43:12 PM","Directory"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\5f7b5f1e01b83767.automaticDestinations-ms","Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations","5f7b5f1e01b83767.automaticDestinations-ms","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\5f7b5f1e01b83767.automaticDestinations-ms
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","5f7b5f1e01b83767","System.Collections.Generic.List`1[System.String]",,"5f7b5f1e01b83767.automaticDestinations-ms","418816","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations","False","True","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\5f7b5f1e01b83767.automaticDestinations-ms",".automaticDestinations-ms","1/3/2019 7:15:30 PM","1/4/2019 12:15:30 AM","4/10/2021 4:48:27 PM","4/10/2021 8:48:27 PM","4/10/2021 4:48:27 PM","4/10/2021 8:48:27 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\f01b4d95cf55d32a.automaticDestinations-ms","Microsoft.PowerShell.Core\FileSystem::C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations","f01b4d95cf55d32a.automaticDestinations-ms","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\f01b4d95cf55d32a.automaticDestinations-ms
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","f01b4d95cf55d32a","System.Collections.Generic.List`1[System.String]",,"f01b4d95cf55d32a.automaticDestinations-ms","64000","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations","False","True","C:\Users\meckh\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\f01b4d95cf55d32a.automaticDestinations-ms",".automaticDestinations-ms","1/3/2019 7:15:28 PM","1/4/2019 12:15:28 AM","4/10/2021 4:53:01 PM","4/10/2021 8:53:01 PM","4/10/2021 4:53:01 PM","4/10/2021 8:53:01 PM","Archive"
